@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(169, 170, 236);
+  }
+  p.color-example {
+    color: navy;
+    background-color: rgb(236, 169, 233);
+    border-style: dotted;
+    border-color: rgb(255, 0, 221);
+    border-width: 3px;
+    width: 500px;
+    margin-left: 20px;
+  }
+  p.text-example {
+    font-size: 20px;
+    font-family: Arial;
+    text-transform: capitalize;
+    text-decoration: underline;
+    margin-left: 20px;
+    width: 500px;    
+  }
+  h1.header-example {
+    color: rgb(79, 87, 204);
+    font-family: Arial;
+    font-size: 30px;
+    margin-left: 20px;
+  }
+  h2 {
+    color: rgb(79, 87, 204);
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 20px;
+  }
+  div.div-example {
+    color: navy;
+    margin-left: 20px;
+    text-align: center;
+    background-color: rgb(236, 169, 233);
+    border-style: solid;
+    border-color: rgb(255, 0, 221);
+    border-width: 3px;
+    width: 500px;
+  }
+
+  ul.list-example {
+    list-style-type: disc;
+    color: pink;
+    margin-left: 20px;
+  }
+  ul li {
+    color: rgb(79, 87, 204);
+    margin: 5px;
+  }
+  footer {
+    color: navy;
+    text-align: center;
+    margin-left: 20px;
+  }
