@@ -134,6 +134,14 @@ figcaption {
   width: 800px;
   margin: 20px;
 }
+  ul li {
+    color: rgb(168 213 227);
+    margin: 5px;
+  }
+  footer {
+    color: navy;
+    text-align: center;
+  }
 * {
   box-sizing: border-box;
 }
@@ -160,12 +168,6 @@ section::after {
 content: "";
 display: table;
 clear: both;
-}
-footer {
-background-color: rgb(104, 188, 221);
-padding: 10px;
-text-align: center;
-color: navy;
 }
   ul.list-example {
     list-style-type: disc;
@@ -196,11 +198,3 @@ color: navy;
       height: auto;
     }
           }
-  ul li {
-    color: rgb(168 213 227);
-    margin: 5px;
-  }
-  footer {
-    color: navy;
-    text-align: center;
-  }
